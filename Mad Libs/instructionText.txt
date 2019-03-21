@@ -1,0 +1,22 @@
+Mad Libs is a phrasal template word game where one player prompts others for a list of words to substitute for blanks in a story, before reading the, often comical or nonsensical, story aloud. 
+The game is frequently played as a party game or as a pastime.
+
+I'm going to write a story, but I need a little help. I'm going to ask you a series of questions and provide a prompt indicating a part of speech (e.g. noun, verb, adverb, etc.). 
+I will then take those words and sprinkle them into seemingly random blank spaces in my story. When finished, I'll output the story for everyone to see.  
+I've provided a brief list of the parts of speech we'll be using along with a definition and a few examples.
+
+Adjective - A descriptive word like 'lumpy,' 'messy,' 'annoying,' etc.
+
+Adverb - Usually describes how something is done and ends in 'ly' like 'stupidly,' 'loosely,' 'sloppily,' etc.
+
+Noun - A person, place, or thing like 'clone trooper,' 'sewer,' 'potato chip,' etc.
+
+Verb - An action word like 'juggling,' 'eating,' 'floating,' etc.
+
+Exclamation - A word used to signify excitement or shock like 'jenkies,' 'gasp,' 'gadzooks,' etc.
+
+
+At times, I may ask for specific input like a color, place, number, a type of animal, etc. 
+Most of these are pretty self-explanatory, but places can mean any type of place (common or proper) from a 'kitchen' to the 'Taj Mahal.'
+
+Ready? Let's go! 
