@@ -42,7 +42,7 @@ string readTextFile(ifstream& File)
 	}
 	else
 	{
-		return "ERROR File does not exist.";
+		return "ERROR! File does not exist.";
 	}
 }
 
